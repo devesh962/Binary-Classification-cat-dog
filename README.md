@@ -1,0 +1,14 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_mwoHgo6vXOiFgtA1QoAdVaNr5AHfo2n)
+# Binary-Classification-cat-dogs
+
+The Classification is done using 8 layered Convolution Neural Network.
+
+Proprocessing is done using OpenCV.
+
+Augmentation is done using Image Generator.
+
+Training vs Validation Accuracy and Loss graphs are plotted using Matplotlib.
+
+Real life high quality images can also be tested.
+
+Run the .py file in Google Colab or directly open through the link given above.
