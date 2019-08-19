@@ -1,5 +1,7 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_mwoHgo6vXOiFgtA1QoAdVaNr5AHfo2n)
+
 # Binary-Classification-cat-dogs
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_mwoHgo6vXOiFgtA1QoAdVaNr5AHfo2n)
 
 The Classification is done using 8 layered Convolution Neural Network.
 
