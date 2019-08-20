@@ -13,6 +13,6 @@ Training vs Validation Accuracy and Loss graphs are plotted using Matplotlib.
 
 Real life high quality images can also be tested.
 
-Run the .py file in Google Colab or directly open through the link given above.
+Run the .py file in Google Colab or Jupyter Notebook.
 
 The second .py file consist of same code but the dataset used is taken from Kaggle.
